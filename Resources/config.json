@@ -1,0 +1,8 @@
+{
+  "MainFormWidth": 1400,
+  "MainFormHeight": 700,
+  "MainFormOpacity": 1.0,
+  "MainFormMaximized": false,
+  "DataSaveDirectory": "data",
+  "DefaultDataFileName": "Default.crmdata"
+}
