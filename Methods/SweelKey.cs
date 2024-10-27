@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 namespace 客户管理系统
 {
     /// <summary>
-    /// 这是SweelLong自制的加密算法，原理很简单，破译有难度
+    /// 本质是字符串转unicode
     /// </summary>
     internal class SweelKey
     {
